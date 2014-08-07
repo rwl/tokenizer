@@ -1,0 +1,7 @@
+name: string_tokenizer
+version: 0.0.1
+author: Richard Lincoln <r.w.lincoln@gmail.com>
+description: String tokenizer is used to break a string apart into tokens.
+homepage: https://github.com/rwl/tokenizer
+dependencies:
+  unittest: '>=0.11.0+3 <0.12.0'
